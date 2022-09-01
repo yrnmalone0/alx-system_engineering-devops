@@ -10,4 +10,6 @@
 
 (Task 5) - The *chmod* command changes a file's permission. Mode "x" which stands for execute is added to letter "u" which also stands user(owner of the file), u+x comes after the chmod command to add execute permission to the owner of the files.
 
-(Task 6) -   
+(Task 6) - The *chmod* command changes a file's permission. ug+x, o+r comes after the chmod command to add execute permission to the owner and group owner of the file, and read permissions to other files.
+
+(Task 7) -

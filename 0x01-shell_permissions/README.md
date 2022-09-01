@@ -12,4 +12,4 @@
 
 (Task 6) - The *chmod* command changes a file's permission. ug+x, o+r comes after the chmod command to add execute permission to the owner and group owner of the file, and read permissions to other files.
 
-(Task 7) -
+(Task 7) - The *chmod* command changes a file's permission. a+x comes after the chmod command to add execute permission to all classes of the file.

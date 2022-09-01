@@ -6,4 +6,6 @@
 
 (Task 3) - The *chown* command changes the current owner of file named "hello" to betty.
 
-(Task 4) - 
+(Task 4) - The *touch* command creates empty file(s).
+
+(Task 5) -  

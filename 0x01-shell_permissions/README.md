@@ -28,4 +28,8 @@
 
 (Task 14) - The *chown* command changes the ownership of the file. 
 
-(Task 15) - The *chown* command changes the ownership of the file. 
+(Task 15) - The *chown* command changes the ownership of the file.
+ 
+(Task 16) - The *chown* command changes the ownership of the file.
+ 
+(Task 17) - The *chown* command changes the ownership of the file. 

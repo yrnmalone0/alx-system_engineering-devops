@@ -16,4 +16,6 @@
 
 (Task 8) - The *chmod* command changes a file's permission. 007 simply gives no permission to the owner, group owner of the file and gives all permissions otherusers of the files.
 
-(Task 9) -
+(Task 9) - The *chmod* command chnages a file's permission. 753 simply gives all permission the user, read and execute permission to group and write and execute permission to other users.
+
+(Task 10) - 

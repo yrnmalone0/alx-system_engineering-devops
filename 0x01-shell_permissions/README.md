@@ -22,4 +22,6 @@
 
 (Task 11) - The *chmod* command chnages a file's permission. u+X would set execute permissions on every subdirectory in the current directory, recursively with "-R" option, for all modes.
 
-(Task 12) - The directory is created with permissions. This is done by invoking the mkdir command with the -m ( -mode ) option. 
+(Task 12) - The directory is created with permissions. This is done by invoking the mkdir command with the -m ( -mode ) option.
+
+(Task 13) - The *chgrp* command changes the ownership of hello file from its previous group to school. 

@@ -32,4 +32,4 @@
  
 (Task 16) - The *chown* command changes the ownership of the file.
  
-(Task 17) - The *chown* command changes the ownership of the file. 
+(Task 17) - The command will play the StarWars IV episode in the terminal.

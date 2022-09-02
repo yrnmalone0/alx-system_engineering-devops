@@ -20,4 +20,6 @@
 
 (Task 10) - The *chmod* command chnages a file's permission. 354 simply gives write and execute permission the user, read and execute permission to the group and read permission to other users.
 
-(Task 11) - The *chmod* command chnages a file's permission. 111 simply gives execute permission to all subdirectories of the current directory for user, group and to other users with the help of "-R" option to recursivley apply the permissions.
+(Task 11) - The *chmod* command chnages a file's permission. u+X would set execute permissions on every subdirectory in the current directory, recursively with "-R" option, for all modes.
+
+(Task 12) - The directory is created with permissions. This is done by invoking the mkdir command with the -m ( -mode ) option. 

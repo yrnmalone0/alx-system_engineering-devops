@@ -24,4 +24,6 @@
 
 (Task 12) - The directory is created with permissions. This is done by invoking the mkdir command with the -m ( -mode ) option.
 
-(Task 13) - The *chgrp* command changes the ownership of hello file from its previous group to school. 
+(Task 13) - The *chgrp* command changes the ownership of hello file from its previous group to school.
+
+(Task 14) - The *chown* command changes the ownership of the file. 

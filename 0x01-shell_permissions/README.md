@@ -18,4 +18,4 @@
 
 (Task 9) - The *chmod* command chnages a file's permission. 753 simply gives all permission the user, read and execute permission to group and write and execute permission to other users.
 
-(Task 10) - 
+(Task 10) - The *chmod* command chnages a file's permission. 664 simply gives read and write permission the user and group and read permission to other users.

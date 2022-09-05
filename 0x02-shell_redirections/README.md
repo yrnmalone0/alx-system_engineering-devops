@@ -6,8 +6,10 @@ The I/O Redirections and filters are accomplished using the operator (<, >, >>) 
 
 **0-hello_world** - It prints "Hello, World", followed by a new line to the standard output.
 
-**1. Confused smiley** - It displays a confused smiley "(Ôo)'.
+**1-confused_smiley** - It displays a confused smiley "(Ôo)'.
 
-**2. Let's display a file** - Displays the content of the /etc/passwd file.
+**2-hellofile** - Displays the content of the /etc/passwd file.
 
-**3. What about 2?** - Displays the content of /etc/passwd and /etc/hosts.
+**3-twofiles** - Displays the content of /etc/passwd and /etc/hosts.
+
+**4-lastlines** - Displays the last 10 lines of /etc/passwd.

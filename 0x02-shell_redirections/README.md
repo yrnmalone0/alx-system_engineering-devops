@@ -5,3 +5,5 @@ The I/O Redirections and filters are accomplished using the operator (<, >, >>) 
 ### Files
 
 **0-hello_world** - It prints "Hello, World", followed by a new line to the standard output.
+
+**1. Confused smiley** - It displays a confused smiley "(Ôo)'.

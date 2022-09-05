@@ -15,3 +15,5 @@ The I/O Redirections and filters are accomplished using the operator (<, >, >>) 
 **4-lastlines** - Displays the last 10 lines of /etc/passwd.
 
 **5-firstlines** - Displays the first 10 lines of /etc/passwd.
+
+**6-third_line** - Displays the first the line of the file iacta.

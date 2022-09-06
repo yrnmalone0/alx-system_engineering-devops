@@ -42,4 +42,6 @@ The I/O Redirections and filters are accomplished using the operator (<, >, >>) 
 
 **18-letteronly** - Displays all lines of the file /etc/ssh/sshd_config starting with a letter.
 
+**19-AZ** - Replace all characters A and c from input to Z and e respectively.
+
 

@@ -48,4 +48,8 @@ The I/O Redirections and filters are accomplished using the operator (<, >, >>) 
 
 **21-reverse** - Writes a script that reverse its input.
 
+**22-users_and_homes** - Displays all users and their home directories, sorted by users.
+
+
+
 

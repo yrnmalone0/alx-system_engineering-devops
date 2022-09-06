@@ -17,3 +17,5 @@ The I/O Redirections and filters are accomplished using the operator (<, >, >>) 
 **5-firstlines** - Displays the first 10 lines of /etc/passwd.
 
 **6-third_line** - Displays the first the line of the file iacta.
+
+**7-file** - Creates a file named exactly \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) containing the text Best School ending by a new line.

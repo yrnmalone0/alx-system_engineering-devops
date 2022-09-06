@@ -44,4 +44,6 @@ The I/O Redirections and filters are accomplished using the operator (<, >, >>) 
 
 **19-AZ** - Replace all characters A and c from input to Z and e respectively.
 
+**20-hiago** - Removes all letters c and C from input.
+
 

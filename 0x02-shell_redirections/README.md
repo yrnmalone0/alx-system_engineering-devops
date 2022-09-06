@@ -31,3 +31,5 @@ The I/O Redirections and filters are accomplished using the operator (<, >, >>) 
 **12-newest_files** - Creates a script that displays the 10 newest files in the current directory.
 
 **13-unique** - Takes a list of words as input and prints only words that appear exactly once.
+
+**14-findthatword** - Displays lines containing the pattern “root” from the file /etc/passwd.

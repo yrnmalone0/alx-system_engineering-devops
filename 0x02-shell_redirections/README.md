@@ -40,4 +40,6 @@ The I/O Redirections and filters are accomplished using the operator (<, >, >>) 
 
 **17-hidethisword** - Displays all the lines in the file /etc/passwd that do not contain the pattern “bin”.
 
+**18-letteronly** - Displays all lines of the file /etc/ssh/sshd_config starting with a letter.
+
 

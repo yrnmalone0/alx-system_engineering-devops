@@ -46,4 +46,6 @@ The I/O Redirections and filters are accomplished using the operator (<, >, >>) 
 
 **20-hiago** - Removes all letters c and C from input.
 
+**21-reverse** - Writes a script that reverse its input.
+
 

@@ -33,3 +33,5 @@ The I/O Redirections and filters are accomplished using the operator (<, >, >>) 
 **13-unique** - Takes a list of words as input and prints only words that appear exactly once.
 
 **14-findthatword** - Displays lines containing the pattern “root” from the file /etc/passwd.
+
+**15-countthatword** - Displays the number of lines that contain the pattern “bin” in the file /etc/passwd.

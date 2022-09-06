@@ -25,3 +25,5 @@ The I/O Redirections and filters are accomplished using the operator (<, >, >>) 
 **9-duplicate_last_line** - Writes a script that duplicates the last line of the file iacta.
 
 **10-no_more_js** - Writes a script that deletes all the regular files (not the directories) with a .js extension that are present in the current directory and all its subfolders.
+
+**11-directories** - Writes a script that counts the number of directories and sub-directories in the current directory.

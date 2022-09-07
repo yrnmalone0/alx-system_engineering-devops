@@ -31,4 +31,6 @@ This is the fourth project under the Software Engineering program.
 
 **13-print_float** -  Prints a number with two decimal places, followed by a new line.
 
-**100-decimal_to_hexadecimal** - Converts a number from base 10 to base 16. The number in base 10 is stored in the environment variable DECIMAL. 
+**100-decimal_to_hexadecimal** - Converts a number from base 10 to base 16. The number in base 10 is stored in the environment variable DECIMAL.
+
+**101-rot13** - Encodes and decodes text using the rot13 encryption. Assume ASCII. 

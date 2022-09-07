@@ -16,3 +16,5 @@ This is the fourth project under the Software Engineering program.
 **5-local_variables** - Creates a script that lists all local variables and environment variables, and functions.
 
 **6-create_local_variable** - Creates a script that creates a new local variable.
+
+**7-create_global_variable** - Create a script that creates a new global variable.
